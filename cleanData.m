@@ -23,4 +23,6 @@ newFileName = fileName + "cleaned";
 
 save(newFileName, 'data');
 
+foo;
+
 end

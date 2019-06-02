@@ -1,4 +1,5 @@
 % Rebalance every 5 days, and on the first and last decision days
+function untitled
 rebalIdx = union(1:5:lastDecDay, [1 lastDecDay]);
         
 recomputeSolution = true; 
